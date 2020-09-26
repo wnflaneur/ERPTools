@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Maps Name="存货编码">物料编码</Maps>
+  <Maps Name="存货名称">名称</Maps>
+  <Maps Name="规格型号">规格/图号</Maps>
+  <Maps Name="存货自定义项1">品牌/材料</Maps>
+  <Maps Name="存货自定义项3">备注</Maps>
+  <Maps Name="存货自定义项4">表面处理</Maps>
+</Param>

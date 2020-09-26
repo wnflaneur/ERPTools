@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Maps Name="计量单位组编码">001</Maps>
+  <Maps Name="主计量单位编码">DW_005</Maps>
+  <Maps Name="启用日期">2020-6-1</Maps>
+  <Maps Name="是否采购">1</Maps>
+  <Maps Name="是否批次管理">1</Maps>
+  <Maps Name="是否生产耗用">1</Maps>
+  <Maps Name="供应类型">领用</Maps>
+  <Maps Name="领料方式">0</Maps>
+  <Maps Name="计价方式">移动平均法</Maps>
+  <Maps Name="进项税率">13</Maps>
+  <Maps Name="销项税率">13</Maps>
+  <Maps Name="计划方法">L</Maps>
+  <Maps Name="供需政策">LP</Maps>
+  <Maps Name="供应期间类型">1</Maps>
+  <Maps Name="可用日期">1</Maps>
+  <Maps Name="检查ATP">0</Maps>
+  <Maps Name="安全库存方法">1</Maps>
+  <Maps Name="BOM展开单位">1</Maps>
+  <Maps Name="需求跟踪方式">2</Maps>
+  <Maps Name="允许BOM子件">1</Maps>
+  <Maps Name="计划默认属性">3</Maps>
+	<Maps Name="是否考虑自由库存">1</Maps>
+</Param>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Maps Name="名称">100</Maps>
+  <Maps Name="物料类型">100</Maps>
+  <Maps Name="规格/图号">100</Maps>
+  <Maps Name="品牌/材料">100</Maps>
+  <Maps Name="表面处理">100</Maps>
+  <Maps Name="单机数量">100</Maps>
+  <Maps Name="设备数量">100</Maps>
+  <Maps Name="总数量">100</Maps>
+  <Maps Name="需求日期">100</Maps>
+  <Maps Name="备注">100</Maps>
+  <Maps Name="备料">100</Maps>
+</Param>

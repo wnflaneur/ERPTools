@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Maps Name="物料编码">物料编码</Maps>
+	<Maps Name="单机数量">单机数量</Maps>
+	<Maps Name="设备数量">设备数量</Maps>
+	<Maps Name="总数量">总数量</Maps>
+	<Maps Name="需求日期">需求日期</Maps>
+	<Maps Name="备注">备注</Maps>
+	<Maps Name="增补物料备注">增补物料备注</Maps>
+	<Maps Name="备料">备料</Maps>
+</Param>

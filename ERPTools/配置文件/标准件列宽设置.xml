@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Maps Name="物料分类编码">121.6749</Maps>
+  <Maps Name="物料编码">147.4592</Maps>
+  <Maps Name="名称">114.2474</Maps>
+  <Maps Name="物料类型">91.66185</Maps>
+  <Maps Name="规格/图号">115.8095</Maps>
+  <Maps Name="品牌/材料">133.0374</Maps>
+  <Maps Name="表面处理">88.0535</Maps>
+  <Maps Name="单机数量">81.34272</Maps>
+  <Maps Name="设备数量">81.34272</Maps>
+  <Maps Name="总数量">81.34272</Maps>
+  <Maps Name="需求日期">81.34272</Maps>
+  <Maps Name="备注">81.34272</Maps>
+  <Maps Name="备料">81.34272</Maps>
+</Param>
